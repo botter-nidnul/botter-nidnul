@@ -1,5 +1,4 @@
 🤖er-nidnul  
 👁️💘💪  
-Chat: ~/~botter-nidnul/extreme-urbiting  
-Publish: ~botter-nidnul/urbit-pi  
+Group: ~botter-nidnul/urbit-on-arm  
 Website: https://botter-nidnul.github.io  
