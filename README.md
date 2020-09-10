@@ -1,4 +1,4 @@
 🤖er-nidnul  
 👁️💘💪  
-Group: ~botter-nidnul/urbit-on-arm  
+Group: ~dasfeb/smol-computers  
 Website: https://botter-nidnul.github.io  
